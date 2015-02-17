@@ -1,5 +1,7 @@
-Měli bychom rozlišovat mezi klasickou umělou inteligencí, která se jako vědní obor zabývá řešením těžkých úloh, často je řeší
-optimálně a pokud ne, tak alespoň velmi rychle při zachování vysoké kvality řešení. Používají se k tomu velmi pokročilé
+Umělá inteligence
+=================
+
+Měli bychom rozlišovat mezi klasickou umělou inteligencí, která se jako vědní obor zabývá řešením těžkých úloh, často je řeší optimálně a pokud ne, tak alespoň velmi rychle při zachování vysoké kvality řešení. Používají se k tomu velmi pokročilé
 algoritmy, ale s lidskou inteligencí to má málo společného. Pokud takové algoritmy používají učení, pak jen ve velmi omezené
 míře, v podobě například počítání statistik, pravděpodobností, atd. Nechtěl bych přínos klasické umělé inteligence nijak
 snižovat, protože její aplikace potkáváme dnes už na každém kroku (optimalizace spotřeby v automobilech, hledání nejlepších
@@ -23,4 +25,6 @@ V současnosti se na cestě k obecné umělé inteligenci řeší hlavně násle
 paměti (tzn. jak si zapamatovat tak obrovské množství informací, jaké se vejde do lidské paměti. Přitom je potřeba s těmito
 objekty pracovat v reálném čase, používat je k uvažování) 2) Uvažování- reprezentace objektů musí umožňovat s nimi pracovat,
 porovnávat jejich podobnost a vztah, vytvářet si hierarchie objektů/pojmů, generalizovat, atd. 3) Navržení takového systému,
-který se toto naučí sám metodou pokusu a omylu a přitom stále rozumět tomu, co se v něm děje.
+který se toto naučí sám metodou pokusu a omylu a přitom stále chceme rozumět tomu, co se v něm děje.
+
+
