@@ -1,10 +1,10 @@
 AI versus us
 =========
-Recently there has been repeatedly discussed the topic of possible threats posed by artificial intelligence to humanity. I almost got persuaded by the arguments, that once an artificial agent with intelligence comparable to human is created, our existence is doomed for good. It has been argued that once AI reaches this level, it will self-improve exponentialy fast and soon go beyond our imagination. At such a point there would be basically 2 options: either the AI will be malicious and kill us as an enemy or as a competitor, or it will extinct us only as a byproduct, because it will need some of the resources which are unfortunately essential for us.
+Recently there has been repeatedly discussed the topic of possible threats posed by artificial intelligence to humanity. I almost got persuaded by the arguments, that once an artificial agent with intelligence comparable to human is created, our existence is doomed for good. It has been argued that once AI reaches this level, it will self-improve exponentialy fast and soon go beyond our imagination. At such point there would be basically 2 options: either the AI will be malicious and kill us as an enemy or as a competitor, or it will extinct us only as a byproduct, because it will need some of the resources which are unfortunately essential for us.
 
 With this reasoning, how can anyone even think about building AI? This question has been stuck in my head for some time now, because exactly this is what we are trying to do in the project I have been participating in during the past couple of months.
 
-I am won't pretend I found a solution how to avoid those scenarios, but I would like to present my chain of thought on this issue. In my opinion, people are so intimidated by the "unpredictability" of super-human intelligence, that they completely forget about the examples at hand. Examples of species with different levels of intelligence and their interactions.
+I won't pretend I found a solution how to avoid those scenarios, but I would like to present my chain of thought on this issue. In my opinion, people are so intimidated by the "unpredictability" of super-human intelligence, that they completely forget about the examples at hand. Examples of species with different levels of intelligence and their interactions.
 
 Imagine a human walking in a forest, when a wolf appears. The wolf notices the human and makes a long hungry howl. The hunt for the prey begins. Who will win this game for life and death?
 
