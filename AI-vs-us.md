@@ -8,7 +8,7 @@ I won't pretend I found a solution how to avoid those scenarios, but I would lik
 
 Imagine a human walking in a forest, when a wolf appears. The wolf notices the human and makes a long hungry howl. The hunt for the prey begins. Who will win this game for life and death?
 
-One on one, who knows? The physical strength is certainly on wolf's side. Will the human intelligence surprass it? If the human has tools - a knife, a spear, or even a gun, the winner is clear. But what if the wolf is not alone? What if there are 5 wolves? Will his gun shoot fast enough?
+One on one, who knows? The physical strength is certainly on wolf's side. Will the human intelligence surpass it? If the human has tools - knife, spear, or even a gun, the winner is clear. But what if the wolf is not alone? What if there are 5 wolves? Will his gun shoot fast enough?
 
 What if there are 10 wolves?
 
